@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\Practice20\bin\Debug\netcoreapp3.1\Practice20.exe
+C:\Users\djnov\source\repos\Practice20\bin\Debug\netcoreapp3.1\Practice20.deps.json
+C:\Users\djnov\source\repos\Practice20\bin\Debug\netcoreapp3.1\Practice20.runtimeconfig.json
+C:\Users\djnov\source\repos\Practice20\bin\Debug\netcoreapp3.1\Practice20.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\Practice20\bin\Debug\netcoreapp3.1\Practice20.dll
+C:\Users\djnov\source\repos\Practice20\bin\Debug\netcoreapp3.1\Practice20.pdb
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.AssemblyInfo.cs
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.dll
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.pdb
+C:\Users\djnov\source\repos\Practice20\obj\Debug\netcoreapp3.1\Practice20.genruntimeconfig.cache
